@@ -1,0 +1,3 @@
+﻿  Part 2.cpp
+C:\Users\n.rasullu\Desktop\New folder\Project2\Project2\Part 2.cpp(69,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Project2.vcxproj -> C:\Users\n.rasullu\Desktop\New folder\Project2\x64\Debug\Project2.exe

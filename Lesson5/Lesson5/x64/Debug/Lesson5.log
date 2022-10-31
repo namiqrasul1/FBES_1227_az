@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\n.rasullu\Desktop\New folder\Lesson5\Lesson5\Source.cpp(47,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\n.rasullu\Desktop\New folder\Lesson5\Lesson5\Source.cpp(53,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\n.rasullu\Desktop\New folder\Lesson5\Lesson5\Source.cpp(116,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Lesson5.vcxproj -> C:\Users\n.rasullu\Desktop\New folder\Lesson5\x64\Debug\Lesson5.exe
