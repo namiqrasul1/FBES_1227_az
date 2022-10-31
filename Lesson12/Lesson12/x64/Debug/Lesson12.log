@@ -1,0 +1,3 @@
+﻿  STL.cpp
+C:\Users\n.rasullu\Desktop\New folder\Lesson12\Lesson12\STL.cpp(14,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Lesson12.vcxproj -> C:\Users\n.rasullu\Desktop\New folder\Lesson12\x64\Debug\Lesson12.exe
