@@ -1,0 +1,3 @@
+﻿  Source1.cpp
+C:\Users\n.rasullu\Desktop\New folder\Lesson13\Lesson13\Source1.cpp(65,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Lesson13.vcxproj -> C:\Users\n.rasullu\Desktop\New folder\Lesson13\x64\Debug\Lesson13.exe
