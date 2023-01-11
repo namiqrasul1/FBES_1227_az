@@ -1,0 +1,15 @@
+C:\Users\namiqrasullu\source\repos\Lesson5OOP\Polymorphism\bin\Debug\net6.0\Polymorphism.exe
+C:\Users\namiqrasullu\source\repos\Lesson5OOP\Polymorphism\bin\Debug\net6.0\Polymorphism.deps.json
+C:\Users\namiqrasullu\source\repos\Lesson5OOP\Polymorphism\bin\Debug\net6.0\Polymorphism.runtimeconfig.json
+C:\Users\namiqrasullu\source\repos\Lesson5OOP\Polymorphism\bin\Debug\net6.0\Polymorphism.dll
+C:\Users\namiqrasullu\source\repos\Lesson5OOP\Polymorphism\bin\Debug\net6.0\Polymorphism.pdb
+C:\Users\namiqrasullu\source\repos\Lesson5OOP\Polymorphism\obj\Debug\net6.0\Polymorphism.csproj.AssemblyReference.cache
+C:\Users\namiqrasullu\source\repos\Lesson5OOP\Polymorphism\obj\Debug\net6.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namiqrasullu\source\repos\Lesson5OOP\Polymorphism\obj\Debug\net6.0\Polymorphism.AssemblyInfoInputs.cache
+C:\Users\namiqrasullu\source\repos\Lesson5OOP\Polymorphism\obj\Debug\net6.0\Polymorphism.AssemblyInfo.cs
+C:\Users\namiqrasullu\source\repos\Lesson5OOP\Polymorphism\obj\Debug\net6.0\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\namiqrasullu\source\repos\Lesson5OOP\Polymorphism\obj\Debug\net6.0\Polymorphism.dll
+C:\Users\namiqrasullu\source\repos\Lesson5OOP\Polymorphism\obj\Debug\net6.0\refint\Polymorphism.dll
+C:\Users\namiqrasullu\source\repos\Lesson5OOP\Polymorphism\obj\Debug\net6.0\Polymorphism.pdb
+C:\Users\namiqrasullu\source\repos\Lesson5OOP\Polymorphism\obj\Debug\net6.0\Polymorphism.genruntimeconfig.cache
+C:\Users\namiqrasullu\source\repos\Lesson5OOP\Polymorphism\obj\Debug\net6.0\ref\Polymorphism.dll

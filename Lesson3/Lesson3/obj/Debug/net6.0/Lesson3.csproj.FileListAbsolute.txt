@@ -1,0 +1,15 @@
+C:\Users\namiqrasullu\source\repos\Lesson3\Lesson3\bin\Debug\net6.0\Lesson3.exe
+C:\Users\namiqrasullu\source\repos\Lesson3\Lesson3\bin\Debug\net6.0\Lesson3.deps.json
+C:\Users\namiqrasullu\source\repos\Lesson3\Lesson3\bin\Debug\net6.0\Lesson3.runtimeconfig.json
+C:\Users\namiqrasullu\source\repos\Lesson3\Lesson3\bin\Debug\net6.0\Lesson3.dll
+C:\Users\namiqrasullu\source\repos\Lesson3\Lesson3\bin\Debug\net6.0\Lesson3.pdb
+C:\Users\namiqrasullu\source\repos\Lesson3\Lesson3\obj\Debug\net6.0\Lesson3.csproj.AssemblyReference.cache
+C:\Users\namiqrasullu\source\repos\Lesson3\Lesson3\obj\Debug\net6.0\Lesson3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namiqrasullu\source\repos\Lesson3\Lesson3\obj\Debug\net6.0\Lesson3.AssemblyInfoInputs.cache
+C:\Users\namiqrasullu\source\repos\Lesson3\Lesson3\obj\Debug\net6.0\Lesson3.AssemblyInfo.cs
+C:\Users\namiqrasullu\source\repos\Lesson3\Lesson3\obj\Debug\net6.0\Lesson3.csproj.CoreCompileInputs.cache
+C:\Users\namiqrasullu\source\repos\Lesson3\Lesson3\obj\Debug\net6.0\Lesson3.dll
+C:\Users\namiqrasullu\source\repos\Lesson3\Lesson3\obj\Debug\net6.0\refint\Lesson3.dll
+C:\Users\namiqrasullu\source\repos\Lesson3\Lesson3\obj\Debug\net6.0\Lesson3.pdb
+C:\Users\namiqrasullu\source\repos\Lesson3\Lesson3\obj\Debug\net6.0\Lesson3.genruntimeconfig.cache
+C:\Users\namiqrasullu\source\repos\Lesson3\Lesson3\obj\Debug\net6.0\ref\Lesson3.dll

@@ -1,0 +1,15 @@
+C:\Users\namiqrasullu\source\repos\Lesson5OOP\Encapsulation\bin\Debug\net6.0\Encapsulation.exe
+C:\Users\namiqrasullu\source\repos\Lesson5OOP\Encapsulation\bin\Debug\net6.0\Encapsulation.deps.json
+C:\Users\namiqrasullu\source\repos\Lesson5OOP\Encapsulation\bin\Debug\net6.0\Encapsulation.runtimeconfig.json
+C:\Users\namiqrasullu\source\repos\Lesson5OOP\Encapsulation\bin\Debug\net6.0\Encapsulation.dll
+C:\Users\namiqrasullu\source\repos\Lesson5OOP\Encapsulation\bin\Debug\net6.0\Encapsulation.pdb
+C:\Users\namiqrasullu\source\repos\Lesson5OOP\Encapsulation\obj\Debug\net6.0\Encapsulation.csproj.AssemblyReference.cache
+C:\Users\namiqrasullu\source\repos\Lesson5OOP\Encapsulation\obj\Debug\net6.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namiqrasullu\source\repos\Lesson5OOP\Encapsulation\obj\Debug\net6.0\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\namiqrasullu\source\repos\Lesson5OOP\Encapsulation\obj\Debug\net6.0\Encapsulation.AssemblyInfo.cs
+C:\Users\namiqrasullu\source\repos\Lesson5OOP\Encapsulation\obj\Debug\net6.0\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\namiqrasullu\source\repos\Lesson5OOP\Encapsulation\obj\Debug\net6.0\Encapsulation.dll
+C:\Users\namiqrasullu\source\repos\Lesson5OOP\Encapsulation\obj\Debug\net6.0\refint\Encapsulation.dll
+C:\Users\namiqrasullu\source\repos\Lesson5OOP\Encapsulation\obj\Debug\net6.0\Encapsulation.pdb
+C:\Users\namiqrasullu\source\repos\Lesson5OOP\Encapsulation\obj\Debug\net6.0\Encapsulation.genruntimeconfig.cache
+C:\Users\namiqrasullu\source\repos\Lesson5OOP\Encapsulation\obj\Debug\net6.0\ref\Encapsulation.dll
