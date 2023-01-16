@@ -1,0 +1,15 @@
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\C#\Lesson9\Lesson9\bin\Debug\net6.0\Lesson9.exe
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\C#\Lesson9\Lesson9\bin\Debug\net6.0\Lesson9.deps.json
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\C#\Lesson9\Lesson9\bin\Debug\net6.0\Lesson9.runtimeconfig.json
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\C#\Lesson9\Lesson9\bin\Debug\net6.0\Lesson9.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\C#\Lesson9\Lesson9\bin\Debug\net6.0\Lesson9.pdb
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\C#\Lesson9\Lesson9\obj\Debug\net6.0\Lesson9.csproj.AssemblyReference.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\C#\Lesson9\Lesson9\obj\Debug\net6.0\Lesson9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\C#\Lesson9\Lesson9\obj\Debug\net6.0\Lesson9.AssemblyInfoInputs.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\C#\Lesson9\Lesson9\obj\Debug\net6.0\Lesson9.AssemblyInfo.cs
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\C#\Lesson9\Lesson9\obj\Debug\net6.0\Lesson9.csproj.CoreCompileInputs.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\C#\Lesson9\Lesson9\obj\Debug\net6.0\Lesson9.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\C#\Lesson9\Lesson9\obj\Debug\net6.0\refint\Lesson9.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\C#\Lesson9\Lesson9\obj\Debug\net6.0\Lesson9.pdb
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\C#\Lesson9\Lesson9\obj\Debug\net6.0\Lesson9.genruntimeconfig.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\C#\Lesson9\Lesson9\obj\Debug\net6.0\ref\Lesson9.dll
