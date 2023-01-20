@@ -1,0 +1,15 @@
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\C#\Lesson11\Lesson11\bin\Debug\net6.0\Lesson11.exe
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\C#\Lesson11\Lesson11\bin\Debug\net6.0\Lesson11.deps.json
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\C#\Lesson11\Lesson11\bin\Debug\net6.0\Lesson11.runtimeconfig.json
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\C#\Lesson11\Lesson11\bin\Debug\net6.0\Lesson11.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\C#\Lesson11\Lesson11\bin\Debug\net6.0\Lesson11.pdb
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\C#\Lesson11\Lesson11\obj\Debug\net6.0\Lesson11.csproj.AssemblyReference.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\C#\Lesson11\Lesson11\obj\Debug\net6.0\Lesson11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\C#\Lesson11\Lesson11\obj\Debug\net6.0\Lesson11.AssemblyInfoInputs.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\C#\Lesson11\Lesson11\obj\Debug\net6.0\Lesson11.AssemblyInfo.cs
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\C#\Lesson11\Lesson11\obj\Debug\net6.0\Lesson11.csproj.CoreCompileInputs.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\C#\Lesson11\Lesson11\obj\Debug\net6.0\Lesson11.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\C#\Lesson11\Lesson11\obj\Debug\net6.0\refint\Lesson11.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\C#\Lesson11\Lesson11\obj\Debug\net6.0\Lesson11.pdb
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\C#\Lesson11\Lesson11\obj\Debug\net6.0\Lesson11.genruntimeconfig.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\C#\Lesson11\Lesson11\obj\Debug\net6.0\ref\Lesson11.dll
