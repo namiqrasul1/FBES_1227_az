@@ -1,0 +1,15 @@
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\C#\Lesson15\Lesson15\bin\Debug\net6.0\Lesson15.exe
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\C#\Lesson15\Lesson15\bin\Debug\net6.0\Lesson15.deps.json
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\C#\Lesson15\Lesson15\bin\Debug\net6.0\Lesson15.runtimeconfig.json
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\C#\Lesson15\Lesson15\bin\Debug\net6.0\Lesson15.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\C#\Lesson15\Lesson15\bin\Debug\net6.0\Lesson15.pdb
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\C#\Lesson15\Lesson15\obj\Debug\net6.0\Lesson15.csproj.AssemblyReference.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\C#\Lesson15\Lesson15\obj\Debug\net6.0\Lesson15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\C#\Lesson15\Lesson15\obj\Debug\net6.0\Lesson15.AssemblyInfoInputs.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\C#\Lesson15\Lesson15\obj\Debug\net6.0\Lesson15.AssemblyInfo.cs
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\C#\Lesson15\Lesson15\obj\Debug\net6.0\Lesson15.csproj.CoreCompileInputs.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\C#\Lesson15\Lesson15\obj\Debug\net6.0\Lesson15.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\C#\Lesson15\Lesson15\obj\Debug\net6.0\refint\Lesson15.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\C#\Lesson15\Lesson15\obj\Debug\net6.0\Lesson15.pdb
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\C#\Lesson15\Lesson15\obj\Debug\net6.0\Lesson15.genruntimeconfig.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\C#\Lesson15\Lesson15\obj\Debug\net6.0\ref\Lesson15.dll

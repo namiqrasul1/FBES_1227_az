@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 0,
+    "Vendor": "Tesla",
+    "Model": "Model-X",
+    "Year": 2022
+  },
+  {
+    "Id": 0,
+    "Vendor": "Chevrolet",
+    "Model": "Camaro",
+    "Year": 2022
+  },
+  {
+    "Id": 0,
+    "Vendor": "Ford",
+    "Model": "Mustang 60",
+    "Year": 1960
+  }
+]

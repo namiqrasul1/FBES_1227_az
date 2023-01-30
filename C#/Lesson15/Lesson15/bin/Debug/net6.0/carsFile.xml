@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cars>
+  <car Vendor="Tesla" Model="Model-X" Year="2022" />
+  <car Vendor="Chevrolet" Model="Camaro" Year="2022" />
+  <car Vendor="Ford" Model="Mustang 60" Year="1960" />
+</cars>

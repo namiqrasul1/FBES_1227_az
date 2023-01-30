@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Gallery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ByCars" Address="K.Rahimov 70" phone="+994551234567">
+	<Cars>
+		<Car Identifier="0" Vendor="Tesla" Model="Model-X" Year="2022" />
+		<Car Identifier="0" Vendor="Chevrolet" Model="Camaro" Year="2022" />
+		<Car Identifier="0" Vendor="Ford" Model="Mustang 60" Year="1960" />
+	</Cars>
+</Gallery>
