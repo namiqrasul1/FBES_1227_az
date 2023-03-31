@@ -1,0 +1,15 @@
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\Creational\AbstractFactory\bin\Debug\net6.0\AbstractFactory.exe
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\Creational\AbstractFactory\bin\Debug\net6.0\AbstractFactory.deps.json
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\Creational\AbstractFactory\bin\Debug\net6.0\AbstractFactory.runtimeconfig.json
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\Creational\AbstractFactory\bin\Debug\net6.0\AbstractFactory.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\Creational\AbstractFactory\bin\Debug\net6.0\AbstractFactory.pdb
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\Creational\AbstractFactory\obj\Debug\net6.0\AbstractFactory.csproj.AssemblyReference.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\Creational\AbstractFactory\obj\Debug\net6.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\Creational\AbstractFactory\obj\Debug\net6.0\AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\Creational\AbstractFactory\obj\Debug\net6.0\AbstractFactory.AssemblyInfo.cs
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\Creational\AbstractFactory\obj\Debug\net6.0\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\Creational\AbstractFactory\obj\Debug\net6.0\AbstractFactory.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\Creational\AbstractFactory\obj\Debug\net6.0\refint\AbstractFactory.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\Creational\AbstractFactory\obj\Debug\net6.0\AbstractFactory.pdb
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\Creational\AbstractFactory\obj\Debug\net6.0\AbstractFactory.genruntimeconfig.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\Creational\AbstractFactory\obj\Debug\net6.0\ref\AbstractFactory.dll

@@ -1,0 +1,15 @@
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\Creational\FactoryMethod\bin\Debug\net6.0\FactoryMethod.exe
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\Creational\FactoryMethod\bin\Debug\net6.0\FactoryMethod.deps.json
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\Creational\FactoryMethod\bin\Debug\net6.0\FactoryMethod.runtimeconfig.json
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\Creational\FactoryMethod\bin\Debug\net6.0\FactoryMethod.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\Creational\FactoryMethod\bin\Debug\net6.0\FactoryMethod.pdb
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\Creational\FactoryMethod\obj\Debug\net6.0\FactoryMethod.csproj.AssemblyReference.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\Creational\FactoryMethod\obj\Debug\net6.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\Creational\FactoryMethod\obj\Debug\net6.0\FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\Creational\FactoryMethod\obj\Debug\net6.0\FactoryMethod.AssemblyInfo.cs
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\Creational\FactoryMethod\obj\Debug\net6.0\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\Creational\FactoryMethod\obj\Debug\net6.0\FactoryMethod.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\Creational\FactoryMethod\obj\Debug\net6.0\refint\FactoryMethod.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\Creational\FactoryMethod\obj\Debug\net6.0\FactoryMethod.pdb
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\Creational\FactoryMethod\obj\Debug\net6.0\FactoryMethod.genruntimeconfig.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\Creational\FactoryMethod\obj\Debug\net6.0\ref\FactoryMethod.dll
