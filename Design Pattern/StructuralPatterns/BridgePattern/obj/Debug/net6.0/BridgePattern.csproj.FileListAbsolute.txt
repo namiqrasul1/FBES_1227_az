@@ -1,0 +1,15 @@
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\BridgePattern\bin\Debug\net6.0\BridgePattern.exe
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\BridgePattern\bin\Debug\net6.0\BridgePattern.deps.json
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\BridgePattern\bin\Debug\net6.0\BridgePattern.runtimeconfig.json
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\BridgePattern\bin\Debug\net6.0\BridgePattern.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\BridgePattern\bin\Debug\net6.0\BridgePattern.pdb
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\BridgePattern\obj\Debug\net6.0\BridgePattern.csproj.AssemblyReference.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\BridgePattern\obj\Debug\net6.0\BridgePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\BridgePattern\obj\Debug\net6.0\BridgePattern.AssemblyInfoInputs.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\BridgePattern\obj\Debug\net6.0\BridgePattern.AssemblyInfo.cs
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\BridgePattern\obj\Debug\net6.0\BridgePattern.csproj.CoreCompileInputs.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\BridgePattern\obj\Debug\net6.0\BridgePattern.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\BridgePattern\obj\Debug\net6.0\refint\BridgePattern.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\BridgePattern\obj\Debug\net6.0\BridgePattern.pdb
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\BridgePattern\obj\Debug\net6.0\BridgePattern.genruntimeconfig.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\BridgePattern\obj\Debug\net6.0\ref\BridgePattern.dll

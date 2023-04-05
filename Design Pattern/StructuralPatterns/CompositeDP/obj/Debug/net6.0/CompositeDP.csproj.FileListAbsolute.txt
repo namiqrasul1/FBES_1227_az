@@ -1,0 +1,15 @@
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\CompositeDP\bin\Debug\net6.0\CompositeDP.exe
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\CompositeDP\bin\Debug\net6.0\CompositeDP.deps.json
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\CompositeDP\bin\Debug\net6.0\CompositeDP.runtimeconfig.json
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\CompositeDP\bin\Debug\net6.0\CompositeDP.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\CompositeDP\bin\Debug\net6.0\CompositeDP.pdb
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\CompositeDP\obj\Debug\net6.0\CompositeDP.csproj.AssemblyReference.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\CompositeDP\obj\Debug\net6.0\CompositeDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\CompositeDP\obj\Debug\net6.0\CompositeDP.AssemblyInfoInputs.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\CompositeDP\obj\Debug\net6.0\CompositeDP.AssemblyInfo.cs
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\CompositeDP\obj\Debug\net6.0\CompositeDP.csproj.CoreCompileInputs.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\CompositeDP\obj\Debug\net6.0\CompositeDP.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\CompositeDP\obj\Debug\net6.0\refint\CompositeDP.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\CompositeDP\obj\Debug\net6.0\CompositeDP.pdb
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\CompositeDP\obj\Debug\net6.0\CompositeDP.genruntimeconfig.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\CompositeDP\obj\Debug\net6.0\ref\CompositeDP.dll

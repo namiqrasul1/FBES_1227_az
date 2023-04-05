@@ -1,0 +1,15 @@
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\AdapterHuseynPattern\bin\Debug\net6.0\AdapterHuseynPattern.exe
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\AdapterHuseynPattern\bin\Debug\net6.0\AdapterHuseynPattern.deps.json
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\AdapterHuseynPattern\bin\Debug\net6.0\AdapterHuseynPattern.runtimeconfig.json
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\AdapterHuseynPattern\bin\Debug\net6.0\AdapterHuseynPattern.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\AdapterHuseynPattern\bin\Debug\net6.0\AdapterHuseynPattern.pdb
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\AdapterHuseynPattern\obj\Debug\net6.0\AdapterHuseynPattern.csproj.AssemblyReference.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\AdapterHuseynPattern\obj\Debug\net6.0\AdapterHuseynPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\AdapterHuseynPattern\obj\Debug\net6.0\AdapterHuseynPattern.AssemblyInfoInputs.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\AdapterHuseynPattern\obj\Debug\net6.0\AdapterHuseynPattern.AssemblyInfo.cs
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\AdapterHuseynPattern\obj\Debug\net6.0\AdapterHuseynPattern.csproj.CoreCompileInputs.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\AdapterHuseynPattern\obj\Debug\net6.0\AdapterHuseynPattern.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\AdapterHuseynPattern\obj\Debug\net6.0\refint\AdapterHuseynPattern.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\AdapterHuseynPattern\obj\Debug\net6.0\AdapterHuseynPattern.pdb
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\AdapterHuseynPattern\obj\Debug\net6.0\AdapterHuseynPattern.genruntimeconfig.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\AdapterHuseynPattern\obj\Debug\net6.0\ref\AdapterHuseynPattern.dll

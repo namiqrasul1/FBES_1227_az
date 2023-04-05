@@ -1,0 +1,15 @@
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\DecoratorDP\bin\Debug\net6.0\DecoratorDP.exe
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\DecoratorDP\bin\Debug\net6.0\DecoratorDP.deps.json
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\DecoratorDP\bin\Debug\net6.0\DecoratorDP.runtimeconfig.json
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\DecoratorDP\bin\Debug\net6.0\DecoratorDP.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\DecoratorDP\bin\Debug\net6.0\DecoratorDP.pdb
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\DecoratorDP\obj\Debug\net6.0\DecoratorDP.csproj.AssemblyReference.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\DecoratorDP\obj\Debug\net6.0\DecoratorDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\DecoratorDP\obj\Debug\net6.0\DecoratorDP.AssemblyInfoInputs.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\DecoratorDP\obj\Debug\net6.0\DecoratorDP.AssemblyInfo.cs
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\DecoratorDP\obj\Debug\net6.0\DecoratorDP.csproj.CoreCompileInputs.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\DecoratorDP\obj\Debug\net6.0\DecoratorDP.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\DecoratorDP\obj\Debug\net6.0\refint\DecoratorDP.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\DecoratorDP\obj\Debug\net6.0\DecoratorDP.pdb
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\DecoratorDP\obj\Debug\net6.0\DecoratorDP.genruntimeconfig.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StructuralPatterns\DecoratorDP\obj\Debug\net6.0\ref\DecoratorDP.dll
