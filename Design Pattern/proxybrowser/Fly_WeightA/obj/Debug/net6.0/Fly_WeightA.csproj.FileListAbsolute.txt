@@ -1,0 +1,15 @@
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\Fly_WeightA\bin\Debug\net6.0\Fly_WeightA.exe
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\Fly_WeightA\bin\Debug\net6.0\Fly_WeightA.deps.json
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\Fly_WeightA\bin\Debug\net6.0\Fly_WeightA.runtimeconfig.json
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\Fly_WeightA\bin\Debug\net6.0\Fly_WeightA.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\Fly_WeightA\bin\Debug\net6.0\Fly_WeightA.pdb
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\Fly_WeightA\obj\Debug\net6.0\Fly_WeightA.csproj.AssemblyReference.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\Fly_WeightA\obj\Debug\net6.0\Fly_WeightA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\Fly_WeightA\obj\Debug\net6.0\Fly_WeightA.AssemblyInfoInputs.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\Fly_WeightA\obj\Debug\net6.0\Fly_WeightA.AssemblyInfo.cs
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\Fly_WeightA\obj\Debug\net6.0\Fly_WeightA.csproj.CoreCompileInputs.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\Fly_WeightA\obj\Debug\net6.0\Fly_WeightA.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\Fly_WeightA\obj\Debug\net6.0\refint\Fly_WeightA.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\Fly_WeightA\obj\Debug\net6.0\Fly_WeightA.pdb
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\Fly_WeightA\obj\Debug\net6.0\Fly_WeightA.genruntimeconfig.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\Fly_WeightA\obj\Debug\net6.0\ref\Fly_WeightA.dll

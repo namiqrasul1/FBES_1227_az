@@ -1,0 +1,15 @@
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\ProxyDesignPattern\ProxyDesignPattern\bin\Debug\net6.0\ProxyDesignPattern.exe
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\ProxyDesignPattern\ProxyDesignPattern\bin\Debug\net6.0\ProxyDesignPattern.deps.json
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\ProxyDesignPattern\ProxyDesignPattern\bin\Debug\net6.0\ProxyDesignPattern.runtimeconfig.json
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\ProxyDesignPattern\ProxyDesignPattern\bin\Debug\net6.0\ProxyDesignPattern.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\ProxyDesignPattern\ProxyDesignPattern\bin\Debug\net6.0\ProxyDesignPattern.pdb
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\net6.0\ProxyDesignPattern.csproj.AssemblyReference.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\net6.0\ProxyDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\net6.0\ProxyDesignPattern.AssemblyInfoInputs.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\net6.0\ProxyDesignPattern.AssemblyInfo.cs
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\net6.0\ProxyDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\net6.0\ProxyDesignPattern.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\net6.0\refint\ProxyDesignPattern.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\net6.0\ProxyDesignPattern.pdb
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\net6.0\ProxyDesignPattern.genruntimeconfig.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\net6.0\ref\ProxyDesignPattern.dll

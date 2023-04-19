@@ -1,0 +1,15 @@
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\FLyWeightPatternHUseyn\bin\Debug\net6.0\FLyWeightPatternHUseyn.exe
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\FLyWeightPatternHUseyn\bin\Debug\net6.0\FLyWeightPatternHUseyn.deps.json
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\FLyWeightPatternHUseyn\bin\Debug\net6.0\FLyWeightPatternHUseyn.runtimeconfig.json
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\FLyWeightPatternHUseyn\bin\Debug\net6.0\FLyWeightPatternHUseyn.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\FLyWeightPatternHUseyn\bin\Debug\net6.0\FLyWeightPatternHUseyn.pdb
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\FLyWeightPatternHUseyn\obj\Debug\net6.0\FLyWeightPatternHUseyn.csproj.AssemblyReference.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\FLyWeightPatternHUseyn\obj\Debug\net6.0\FLyWeightPatternHUseyn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\FLyWeightPatternHUseyn\obj\Debug\net6.0\FLyWeightPatternHUseyn.AssemblyInfoInputs.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\FLyWeightPatternHUseyn\obj\Debug\net6.0\FLyWeightPatternHUseyn.AssemblyInfo.cs
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\FLyWeightPatternHUseyn\obj\Debug\net6.0\FLyWeightPatternHUseyn.csproj.CoreCompileInputs.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\FLyWeightPatternHUseyn\obj\Debug\net6.0\FLyWeightPatternHUseyn.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\FLyWeightPatternHUseyn\obj\Debug\net6.0\refint\FLyWeightPatternHUseyn.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\FLyWeightPatternHUseyn\obj\Debug\net6.0\FLyWeightPatternHUseyn.pdb
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\FLyWeightPatternHUseyn\obj\Debug\net6.0\FLyWeightPatternHUseyn.genruntimeconfig.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\FLyWeightPatternHUseyn\obj\Debug\net6.0\ref\FLyWeightPatternHUseyn.dll

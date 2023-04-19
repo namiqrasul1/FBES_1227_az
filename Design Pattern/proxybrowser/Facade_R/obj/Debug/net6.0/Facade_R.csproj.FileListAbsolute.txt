@@ -1,0 +1,15 @@
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\Facade_R\bin\Debug\net6.0\Facade_R.exe
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\Facade_R\bin\Debug\net6.0\Facade_R.deps.json
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\Facade_R\bin\Debug\net6.0\Facade_R.runtimeconfig.json
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\Facade_R\bin\Debug\net6.0\Facade_R.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\Facade_R\bin\Debug\net6.0\Facade_R.pdb
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\Facade_R\obj\Debug\net6.0\Facade_R.csproj.AssemblyReference.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\Facade_R\obj\Debug\net6.0\Facade_R.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\Facade_R\obj\Debug\net6.0\Facade_R.AssemblyInfoInputs.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\Facade_R\obj\Debug\net6.0\Facade_R.AssemblyInfo.cs
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\Facade_R\obj\Debug\net6.0\Facade_R.csproj.CoreCompileInputs.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\Facade_R\obj\Debug\net6.0\Facade_R.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\Facade_R\obj\Debug\net6.0\refint\Facade_R.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\Facade_R\obj\Debug\net6.0\Facade_R.pdb
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\Facade_R\obj\Debug\net6.0\Facade_R.genruntimeconfig.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\Facade_R\obj\Debug\net6.0\ref\Facade_R.dll

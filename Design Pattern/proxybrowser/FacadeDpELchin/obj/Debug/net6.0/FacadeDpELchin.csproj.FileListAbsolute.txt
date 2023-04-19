@@ -1,0 +1,15 @@
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\FacadeDpELchin\bin\Debug\net6.0\FacadeDpELchin.exe
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\FacadeDpELchin\bin\Debug\net6.0\FacadeDpELchin.deps.json
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\FacadeDpELchin\bin\Debug\net6.0\FacadeDpELchin.runtimeconfig.json
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\FacadeDpELchin\bin\Debug\net6.0\FacadeDpELchin.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\FacadeDpELchin\bin\Debug\net6.0\FacadeDpELchin.pdb
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\FacadeDpELchin\obj\Debug\net6.0\FacadeDpELchin.csproj.AssemblyReference.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\FacadeDpELchin\obj\Debug\net6.0\FacadeDpELchin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\FacadeDpELchin\obj\Debug\net6.0\FacadeDpELchin.AssemblyInfoInputs.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\FacadeDpELchin\obj\Debug\net6.0\FacadeDpELchin.AssemblyInfo.cs
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\FacadeDpELchin\obj\Debug\net6.0\FacadeDpELchin.csproj.CoreCompileInputs.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\FacadeDpELchin\obj\Debug\net6.0\FacadeDpELchin.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\FacadeDpELchin\obj\Debug\net6.0\refint\FacadeDpELchin.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\FacadeDpELchin\obj\Debug\net6.0\FacadeDpELchin.pdb
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\FacadeDpELchin\obj\Debug\net6.0\FacadeDpELchin.genruntimeconfig.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\FacadeDpELchin\obj\Debug\net6.0\ref\FacadeDpELchin.dll

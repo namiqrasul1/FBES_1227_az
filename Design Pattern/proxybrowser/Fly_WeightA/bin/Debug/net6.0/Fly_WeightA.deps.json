@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Fly_WeightA/1.0.0": {
+        "runtime": {
+          "Fly_WeightA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fly_WeightA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

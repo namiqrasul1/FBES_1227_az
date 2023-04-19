@@ -1,0 +1,15 @@
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\ProxyPattern\bin\Debug\net6.0\ProxyPattern.exe
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\ProxyPattern\bin\Debug\net6.0\ProxyPattern.deps.json
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\ProxyPattern\bin\Debug\net6.0\ProxyPattern.runtimeconfig.json
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\ProxyPattern\bin\Debug\net6.0\ProxyPattern.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\ProxyPattern\bin\Debug\net6.0\ProxyPattern.pdb
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\ProxyPattern\obj\Debug\net6.0\ProxyPattern.csproj.AssemblyReference.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\ProxyPattern\obj\Debug\net6.0\ProxyPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\ProxyPattern\obj\Debug\net6.0\ProxyPattern.AssemblyInfoInputs.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\ProxyPattern\obj\Debug\net6.0\ProxyPattern.AssemblyInfo.cs
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\ProxyPattern\obj\Debug\net6.0\ProxyPattern.csproj.CoreCompileInputs.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\ProxyPattern\obj\Debug\net6.0\ProxyPattern.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\ProxyPattern\obj\Debug\net6.0\refint\ProxyPattern.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\ProxyPattern\obj\Debug\net6.0\ProxyPattern.pdb
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\ProxyPattern\obj\Debug\net6.0\ProxyPattern.genruntimeconfig.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\ProxyPattern\obj\Debug\net6.0\ref\ProxyPattern.dll

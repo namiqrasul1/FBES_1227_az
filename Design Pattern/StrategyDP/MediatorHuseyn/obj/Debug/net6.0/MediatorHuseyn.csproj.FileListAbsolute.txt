@@ -1,0 +1,15 @@
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StrategyDP\MediatorHuseyn\obj\Debug\net6.0\MediatorHuseyn.csproj.AssemblyReference.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StrategyDP\MediatorHuseyn\obj\Debug\net6.0\MediatorHuseyn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StrategyDP\MediatorHuseyn\obj\Debug\net6.0\MediatorHuseyn.AssemblyInfoInputs.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StrategyDP\MediatorHuseyn\obj\Debug\net6.0\MediatorHuseyn.AssemblyInfo.cs
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StrategyDP\MediatorHuseyn\obj\Debug\net6.0\MediatorHuseyn.csproj.CoreCompileInputs.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StrategyDP\MediatorHuseyn\bin\Debug\net6.0\MediatorHuseyn.exe
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StrategyDP\MediatorHuseyn\bin\Debug\net6.0\MediatorHuseyn.deps.json
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StrategyDP\MediatorHuseyn\bin\Debug\net6.0\MediatorHuseyn.runtimeconfig.json
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StrategyDP\MediatorHuseyn\bin\Debug\net6.0\MediatorHuseyn.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StrategyDP\MediatorHuseyn\bin\Debug\net6.0\MediatorHuseyn.pdb
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StrategyDP\MediatorHuseyn\obj\Debug\net6.0\MediatorHuseyn.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StrategyDP\MediatorHuseyn\obj\Debug\net6.0\refint\MediatorHuseyn.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StrategyDP\MediatorHuseyn\obj\Debug\net6.0\MediatorHuseyn.pdb
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StrategyDP\MediatorHuseyn\obj\Debug\net6.0\MediatorHuseyn.genruntimeconfig.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StrategyDP\MediatorHuseyn\obj\Debug\net6.0\ref\MediatorHuseyn.dll

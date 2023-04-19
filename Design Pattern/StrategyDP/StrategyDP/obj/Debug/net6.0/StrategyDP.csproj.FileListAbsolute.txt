@@ -1,0 +1,15 @@
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StrategyDP\StrategyDP\bin\Debug\net6.0\StrategyDP.exe
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StrategyDP\StrategyDP\bin\Debug\net6.0\StrategyDP.deps.json
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StrategyDP\StrategyDP\bin\Debug\net6.0\StrategyDP.runtimeconfig.json
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StrategyDP\StrategyDP\bin\Debug\net6.0\StrategyDP.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StrategyDP\StrategyDP\bin\Debug\net6.0\StrategyDP.pdb
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StrategyDP\StrategyDP\obj\Debug\net6.0\StrategyDP.csproj.AssemblyReference.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StrategyDP\StrategyDP\obj\Debug\net6.0\StrategyDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StrategyDP\StrategyDP\obj\Debug\net6.0\StrategyDP.AssemblyInfoInputs.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StrategyDP\StrategyDP\obj\Debug\net6.0\StrategyDP.AssemblyInfo.cs
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StrategyDP\StrategyDP\obj\Debug\net6.0\StrategyDP.csproj.CoreCompileInputs.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StrategyDP\StrategyDP\obj\Debug\net6.0\StrategyDP.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StrategyDP\StrategyDP\obj\Debug\net6.0\refint\StrategyDP.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StrategyDP\StrategyDP\obj\Debug\net6.0\StrategyDP.pdb
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StrategyDP\StrategyDP\obj\Debug\net6.0\StrategyDP.genruntimeconfig.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StrategyDP\StrategyDP\obj\Debug\net6.0\ref\StrategyDP.dll

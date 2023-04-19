@@ -1,0 +1,15 @@
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StrategyDP\StateDP\bin\Debug\net6.0\StateDP.exe
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StrategyDP\StateDP\bin\Debug\net6.0\StateDP.deps.json
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StrategyDP\StateDP\bin\Debug\net6.0\StateDP.runtimeconfig.json
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StrategyDP\StateDP\bin\Debug\net6.0\StateDP.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StrategyDP\StateDP\bin\Debug\net6.0\StateDP.pdb
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StrategyDP\StateDP\obj\Debug\net6.0\StateDP.csproj.AssemblyReference.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StrategyDP\StateDP\obj\Debug\net6.0\StateDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StrategyDP\StateDP\obj\Debug\net6.0\StateDP.AssemblyInfoInputs.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StrategyDP\StateDP\obj\Debug\net6.0\StateDP.AssemblyInfo.cs
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StrategyDP\StateDP\obj\Debug\net6.0\StateDP.csproj.CoreCompileInputs.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StrategyDP\StateDP\obj\Debug\net6.0\StateDP.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StrategyDP\StateDP\obj\Debug\net6.0\refint\StateDP.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StrategyDP\StateDP\obj\Debug\net6.0\StateDP.pdb
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StrategyDP\StateDP\obj\Debug\net6.0\StateDP.genruntimeconfig.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\StrategyDP\StateDP\obj\Debug\net6.0\ref\StateDP.dll

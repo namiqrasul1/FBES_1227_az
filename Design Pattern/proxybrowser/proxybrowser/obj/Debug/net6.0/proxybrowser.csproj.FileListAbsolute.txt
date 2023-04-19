@@ -1,0 +1,15 @@
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\proxybrowser\bin\Debug\net6.0\proxybrowser.exe
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\proxybrowser\bin\Debug\net6.0\proxybrowser.deps.json
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\proxybrowser\bin\Debug\net6.0\proxybrowser.runtimeconfig.json
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\proxybrowser\bin\Debug\net6.0\proxybrowser.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\proxybrowser\bin\Debug\net6.0\proxybrowser.pdb
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\proxybrowser\obj\Debug\net6.0\proxybrowser.csproj.AssemblyReference.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\proxybrowser\obj\Debug\net6.0\proxybrowser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\proxybrowser\obj\Debug\net6.0\proxybrowser.AssemblyInfoInputs.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\proxybrowser\obj\Debug\net6.0\proxybrowser.AssemblyInfo.cs
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\proxybrowser\obj\Debug\net6.0\proxybrowser.csproj.CoreCompileInputs.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\proxybrowser\obj\Debug\net6.0\proxybrowser.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\proxybrowser\obj\Debug\net6.0\refint\proxybrowser.dll
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\proxybrowser\obj\Debug\net6.0\proxybrowser.pdb
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\proxybrowser\obj\Debug\net6.0\proxybrowser.genruntimeconfig.cache
+C:\Users\namiqrasullu\Desktop\FBES_1227_az\Design Pattern\proxybrowser\proxybrowser\obj\Debug\net6.0\ref\proxybrowser.dll
