@@ -1,0 +1,15 @@
+C:\Users\namiqrasullu\source\repos\MyLittleWebServer\MyLittleWebServer\bin\Debug\net6.0\MyLittleWebServer.exe
+C:\Users\namiqrasullu\source\repos\MyLittleWebServer\MyLittleWebServer\bin\Debug\net6.0\MyLittleWebServer.deps.json
+C:\Users\namiqrasullu\source\repos\MyLittleWebServer\MyLittleWebServer\bin\Debug\net6.0\MyLittleWebServer.runtimeconfig.json
+C:\Users\namiqrasullu\source\repos\MyLittleWebServer\MyLittleWebServer\bin\Debug\net6.0\MyLittleWebServer.dll
+C:\Users\namiqrasullu\source\repos\MyLittleWebServer\MyLittleWebServer\bin\Debug\net6.0\MyLittleWebServer.pdb
+C:\Users\namiqrasullu\source\repos\MyLittleWebServer\MyLittleWebServer\obj\Debug\net6.0\MyLittleWebServer.csproj.AssemblyReference.cache
+C:\Users\namiqrasullu\source\repos\MyLittleWebServer\MyLittleWebServer\obj\Debug\net6.0\MyLittleWebServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namiqrasullu\source\repos\MyLittleWebServer\MyLittleWebServer\obj\Debug\net6.0\MyLittleWebServer.AssemblyInfoInputs.cache
+C:\Users\namiqrasullu\source\repos\MyLittleWebServer\MyLittleWebServer\obj\Debug\net6.0\MyLittleWebServer.AssemblyInfo.cs
+C:\Users\namiqrasullu\source\repos\MyLittleWebServer\MyLittleWebServer\obj\Debug\net6.0\MyLittleWebServer.csproj.CoreCompileInputs.cache
+C:\Users\namiqrasullu\source\repos\MyLittleWebServer\MyLittleWebServer\obj\Debug\net6.0\MyLittleWebServer.dll
+C:\Users\namiqrasullu\source\repos\MyLittleWebServer\MyLittleWebServer\obj\Debug\net6.0\refint\MyLittleWebServer.dll
+C:\Users\namiqrasullu\source\repos\MyLittleWebServer\MyLittleWebServer\obj\Debug\net6.0\MyLittleWebServer.pdb
+C:\Users\namiqrasullu\source\repos\MyLittleWebServer\MyLittleWebServer\obj\Debug\net6.0\MyLittleWebServer.genruntimeconfig.cache
+C:\Users\namiqrasullu\source\repos\MyLittleWebServer\MyLittleWebServer\obj\Debug\net6.0\ref\MyLittleWebServer.dll
