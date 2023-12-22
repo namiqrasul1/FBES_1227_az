@@ -1,0 +1,15 @@
+﻿@model List<Product>
+@{
+    <div class="d-flex justify-content-between">
+        @foreach (var item in Model)
+        {
+            <div class="card" style="width: 18rem;">
+                <div class="card-body">
+                    <h5 class="card-title">@item.Name</h5>
+                    <p class="card-text">@item.Price</p>
+                    <a href="#" class="card-link">Delete</a>
+                </div>
+            </div>
+        }
+    </div>
+}

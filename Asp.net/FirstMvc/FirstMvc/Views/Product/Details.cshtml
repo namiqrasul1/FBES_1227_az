@@ -1,0 +1,38 @@
+﻿@using System.Text.Json;
+@*@model Product
+@{
+    if (Model is not null)
+    {
+        <label>Title:</label>
+
+        <p>@Model.Name</p>
+        <label>Price:</label>
+
+        <p>@Model.Price</p>
+    }
+    else
+    {
+        <h1>Not found</h1>
+    }
+
+}*@
+
+@*<div class="card" style="width: 18rem;">
+    <div class="card-body">
+        <h5 class="card-title">@ViewBag.Product.Name</h5>
+        <p class="card-text">@ViewBag.Product.Price</p>
+        <a href="#" class="card-link">Delete</a>
+    </div>
+</div>*@
+
+@{
+    //Product? product = ViewData["Product"] as Product;
+    Product? product = JsonSerializer.Deserialize<Product>(TempData["Product"]!.ToString() ?? "");
+}
+<div class="card" style="width: 18rem;">
+    <div class="card-body">
+        <h5 class="card-title">@product?.Name</h5>
+        <p class="card-text">@product?.Price</p>
+        <a href="#" class="card-link">Delete</a>
+    </div>
+</div>
