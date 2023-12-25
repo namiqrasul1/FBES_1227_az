@@ -1,0 +1,29 @@
+﻿@*<form asp-action="Register" asp-controller="Auth" method="post">
+    <label>Email:</label> <input type="email" placeholder="example@example.com" name="email" /><br />
+    <label>Password:</label><input type="password" placeholder="**********" name="pass" /><br />
+    <label>Confirm:</label> <input type="password" placeholder="**********" name="confirm" /><br />
+    <input type="submit" value="Register" />
+</form>*@
+@*@model UserViewModel
+<form asp-action="Register" asp-controller="Auth" method="post">
+    <label>Email:</label> <input type="email" placeholder="example@example.com" asp-for="email" required /><br />
+    <label>Password:</label><input type="password" placeholder="**********" asp-for="pass" required/><br />
+    <label>Confirm:</label> <input type="password" placeholder="**********" asp-for="confirm" required/><br />
+    <input type="submit" value="Register" />
+</form>*@
+
+@*<a asp-action="Delete" asp-controller="Product" asp-route-id="1">asdasd</a>*@
+
+@model User
+<form asp-action="Register" asp-controller="Auth" method="post">
+    <label>Email:</label> <input placeholder="example@example.com" asp-for="Email" required />
+    <span asp-validation-for="Email"></span>
+    <br />
+    <label>Password:</label><input placeholder="**********" asp-for="Pass" required />
+    <span asp-validation-for="Pass"></span>
+    <br />
+    <label>Confirm:</label> <input placeholder="**********" asp-for="Confirm" required />
+    <span asp-validation-for="Confirm"></span>
+    <br />
+    <input type="submit" value="Register" />
+</form>
