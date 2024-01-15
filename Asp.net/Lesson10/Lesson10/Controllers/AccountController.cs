@@ -72,11 +72,14 @@ namespace Lesson10.Controllers
                         ModelState.AddModelError("all", "email not confirmed");
                 }
             }
-
-
-
             return View(model);
         }
 
+        [HttpGet]
+        public async Task<IActionResult> Logout()
+        {
+            await _signInManager.SignOutAsync();
+            return RedirectToAction("Login");
+        }
     }
 }

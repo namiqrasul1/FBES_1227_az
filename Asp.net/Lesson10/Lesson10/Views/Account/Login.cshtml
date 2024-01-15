@@ -1,4 +1,10 @@
 ﻿@model LoginViewModel
+@{
+    Layout = null;
+}
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+<link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+<link rel="stylesheet" href="~/Lesson10.styles.css" asp-append-version="true" />
 
 <div class="container mt-5">
     <div class="row justify-content-center">
@@ -27,4 +33,10 @@
             </div>
         </div>
     </div>
+    <a asp-action="Register">Go to Regiser</a>
 </div>
+
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/js/site.js" asp-append-version="true"></script>
