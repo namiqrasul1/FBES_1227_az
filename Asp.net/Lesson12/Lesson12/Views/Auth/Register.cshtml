@@ -1,0 +1,90 @@
+﻿@{
+    Layout = null;
+}
+@model RegisterViewModel 
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+<link href="~/css/style.css" rel="stylesheet" />
+<div class="container">
+    <div class="row px-3">
+        <div class="col-lg-10 col-xl-9 card flex-row mx-auto px-0">
+            <div class="img-left d-none d-md-flex"></div>
+
+            <div class="card-body">
+                <h4 class="title text-center mt-4">
+                    Login into account
+                </h4>
+                <form class="form-box px-3" asp-action="Register" method="post">
+
+                    <div class="form-input">
+                        <span><i class="fa fa-envelope-o"></i></span>
+                        <input asp-for="Email" class="form-control" placeholder="Email Address" tabindex="10" required>
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-input">
+                        <span><i class="fa fa-user"></i></span>
+                        <input asp-for="Username" class="form-control" placeholder="Username" required>
+                        <span asp-validation-for="Username" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-input">
+                        <span><i class="fa fa-key"></i></span>
+                        <input asp-for="Password" type="password" class="form-control" placeholder="Password" required>
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-input">
+                        <span><i class="fa fa-key"></i></span>
+                        <input asp-for="ConfirmPassword" type="password" class="form-control" placeholder="Confirm Password" required>
+                        <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                    </div>
+
+                   
+                    <div class="mb-3">
+                        <button type="submit" class="btn btn-block text-uppercase">
+                            Register
+                        </button>
+                    </div>
+
+                    <div class="text-center mb-3">
+                        or register with
+                    </div>
+
+                    <div class="row mb-3">
+                        <div class="col-4">
+                            <a href="#" class="btn btn-block btn-social btn-facebook">
+                                Facebook
+                            </a>
+                        </div>
+
+                        <div class="col-4">
+                            <a href="#" class="btn btn-block btn-social btn-google">
+                                Google
+                            </a>
+                        </div>
+
+                        <div class="col-4">
+                            <a href="#" class="btn btn-block btn-social btn-twitter">
+                                Twitter
+                            </a>
+                        </div>
+                    </div>
+
+                    <hr class="my-4">
+
+                    <div class="text-center mb-2">
+                        Already have an account?
+                        <a asp-action="Login" class="register-link">
+                            Login here
+                        </a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/js/site.js" asp-append-version="true"></script>
