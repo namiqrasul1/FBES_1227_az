@@ -1,6 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using TodoWebService.Data;
+using TodoWebService.Models.DTOs.Pagination;
 using TodoWebService.Models.DTOs.Todo;
+using TodoWebService.Models.Entities;
 
 namespace TodoWebService.Services.Todo
 {
@@ -28,9 +30,25 @@ namespace TodoWebService.Services.Todo
             throw new NotImplementedException();
         }
 
-        public Task<List<TodoItemDto>> GetAll(int page, int pageSize)
+        public async Task<PaginatedListDto<TodoItemDto>> GetAll(int page, int pageSize, bool? isCompleted) 
         {
-            throw new NotImplementedException();
+            IQueryable<TodoItem> query = _context.TodoItems.AsQueryable();
+
+            if (isCompleted.HasValue)
+                query = query.Where(e => e.IsCompleted == isCompleted);
+
+            var items = await query.Skip((page - 1) * pageSize).Take(pageSize).ToListAsync();
+            var totalCount = await query.CountAsync();
+
+            return new PaginatedListDto<TodoItemDto>(
+                items.Select(e => new TodoItemDto(
+                    id: e.Id,
+                    text: e.Text,
+                    isCompleted: e.IsCompleted,
+                    createdTime: e.CreatedTime
+                )),
+                new PaginationMeta(page, pageSize, totalCount)
+                );
         }
 
         public async Task<TodoItemDto?> GetTodoItem(int id)
@@ -39,10 +57,10 @@ namespace TodoWebService.Services.Todo
 
             return todoItem is not null
                 ? new TodoItemDto(
-                    Id: todoItem.Id,
-                    Text: todoItem.Text,
-                    IsCompleted: todoItem.IsCompleted,
-                    CreatedTime: todoItem.CreatedTime)
+                    id: todoItem.Id,
+                    text: todoItem.Text,
+                    isCompleted: todoItem.IsCompleted,
+                    createdTime: todoItem.CreatedTime)
                 : null;
         }
     }

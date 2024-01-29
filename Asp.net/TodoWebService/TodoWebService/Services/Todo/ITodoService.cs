@@ -1,4 +1,5 @@
-﻿using TodoWebService.Models.DTOs.Todo;
+﻿using TodoWebService.Models.DTOs.Pagination;
+using TodoWebService.Models.DTOs.Todo;
 
 namespace TodoWebService.Services.Todo
 {
@@ -8,6 +9,6 @@ namespace TodoWebService.Services.Todo
         Task<TodoItemDto> CreateTodo(CreateTodoItemRequest request);
         Task<TodoItemDto> ChangeTodoItemStatus(int id, bool isCompleted);
         Task<bool> DeleteTodo(int id);
-        Task<List<TodoItemDto>> GetAll(int page, int pageSize);  // need to modify
+        Task<PaginatedListDto<TodoItemDto>> GetAll(int page, int pageSize, bool? isCompleted); 
     }
 }
