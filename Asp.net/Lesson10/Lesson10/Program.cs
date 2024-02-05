@@ -51,9 +51,15 @@ app.UseAuthentication();
 
 app.UseAuthorization();
 
+app.MapAreaControllerRoute(
+        name: "foradminarea",
+        areaName: "Admin",
+        pattern: "foradmin/{controller=Home}/{action=Index}"
+        );
+
 app.MapControllerRoute(
-    name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+        name: "default",
+        pattern: "{controller=Home}/{action=Index}/{id?}");
 
 
 //var container = app.Services.CreateScope();

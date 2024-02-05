@@ -16,7 +16,7 @@
                 <div class="card-body">
                     <div asp-validation-summary="All" class="text-danger"></div>
                     <form asp-controller="Account" asp-action="Login" method="post">
-                        
+                        <input type="hidden" name="returnUrl"value="@ViewBag.ReturnUrl"/>
                         <div class="form-group">
                             <label for="email">Email:</label>
                             <input type="email" class="form-control" id="email" asp-for="Email" required>

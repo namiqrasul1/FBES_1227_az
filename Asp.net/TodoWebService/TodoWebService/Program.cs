@@ -14,6 +14,8 @@ builder.Services.AddDomainServices();
 
 builder.Services.AddTodoContext(builder.Configuration);
 
+builder.Services.AddMemoryCache();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -24,6 +26,9 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+//app.UseOutputCache();
+app.UseResponseCaching();
 
 app.UseAuthorization();
 

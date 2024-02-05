@@ -18,7 +18,11 @@ namespace Lesson10.Controllers
             _signInManager = signInManager;
         }
         public IActionResult Register() => View();
-        public IActionResult Login() => View();
+        public IActionResult Login(string? returnUrl)
+        {
+            ViewBag.ReturnUrl = returnUrl;
+            return View();
+        }
 
         [HttpPost]
         public async Task<IActionResult> Register(RegisterViewModel model)
@@ -50,7 +54,7 @@ namespace Lesson10.Controllers
 
 
         [HttpPost]
-        public async Task<IActionResult> Login(LoginViewModel model)
+        public async Task<IActionResult> Login(LoginViewModel model, string? returnUrl)
         {
             if (ModelState.IsValid)
             {
@@ -63,7 +67,8 @@ namespace Lesson10.Controllers
 
                         if (result.Succeeded)
                         {
-                            return Redirect("/");
+                            returnUrl ??= "/";
+                            return Redirect(returnUrl);
                         }
                         ModelState.AddModelError("all", "email or password not valid");
 
