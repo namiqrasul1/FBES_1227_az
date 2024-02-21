@@ -42,5 +42,13 @@ namespace TodoWebService.Controllers
             var result = await _todoService.GetAll(request.Page, request.PageSize, isCompleted);
             return result is not null ? result : null;
         }
+
+        [HttpPost("create")]
+        public async Task<ActionResult<TodoItemDto>> Create(CreateTodoItemRequest request)
+        {
+            var userInfo = _provider.GetUserInfo();
+            var result = await _todoService.CreateTodo(userInfo!.Id, request);
+            return result is not null ? result : BadRequest("Something went wrong");
+        }
     }
 }

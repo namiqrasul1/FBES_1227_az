@@ -20,9 +20,21 @@ namespace TodoWebService.Services.Todo
             throw new NotImplementedException();
         }
 
-        public Task<TodoItemDto> CreateTodo(CreateTodoItemRequest request)
+        public async Task<TodoItemDto> CreateTodo(string userId, CreateTodoItemRequest request)
         {
-            throw new NotImplementedException();
+            var todoItem = new TodoItem
+            {
+                CreatedTime = DateTime.Now,
+                Deadline = request.Deadline,
+                Text = request.Text,
+                IsCompleted = false,
+                UpdatedTime = DateTime.Now,
+                UserId = userId,
+            };
+
+            _context.TodoItems.Add(todoItem);
+            await _context.SaveChangesAsync();
+            return new TodoItemDto(todoItem.Id, todoItem.Text, todoItem.IsCompleted, todoItem.CreatedTime);
         }
 
         public Task<bool> DeleteTodo(int id)

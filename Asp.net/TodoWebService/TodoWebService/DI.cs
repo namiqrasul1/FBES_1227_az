@@ -5,6 +5,7 @@ using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using System.Text;
 using TodoWebService.Auth;
+using TodoWebService.BackgroundServices;
 using TodoWebService.Data;
 using TodoWebService.Models.Entities;
 using TodoWebService.Providers;
@@ -14,7 +15,12 @@ namespace TodoWebService
 {
     public static class DI
     {
+        public static IServiceCollection AddBackgroundService(this IServiceCollection services)
+        {
+            services.AddHostedService<CheckUnfinishedTodosBackgroundService>();
 
+            return services;
+        }
         public static IServiceCollection AddSwagger(this IServiceCollection services)
         {
             services.AddEndpointsApiExplorer();
@@ -86,7 +92,7 @@ namespace TodoWebService
         public static IServiceCollection AddDomainServices(this IServiceCollection services)
         {
             services.AddScoped<ITodoService, TodoService>();
-            services.AddScoped<IJwtService, JwtService>(); 
+            services.AddScoped<IJwtService, JwtService>();
             services.AddScoped<IRequestUserProvider, RequestUserProvider>();
             return services;
         }

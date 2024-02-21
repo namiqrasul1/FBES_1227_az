@@ -10,6 +10,8 @@ builder.Services.AddControllers();
 builder.Services.AddSwagger();
 builder.Services.AddAuthenticationAndAuthorization(builder.Configuration);
 
+builder.Services.AddBackgroundService();
+
 builder.Services.AddDomainServices();
 
 builder.Services.AddTodoContext(builder.Configuration);

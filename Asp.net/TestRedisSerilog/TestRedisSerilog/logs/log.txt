@@ -1,0 +1,95 @@
+[21:44:16 DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+[21:44:16 DBG] Hosting starting
+[21:44:16 WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+[21:44:16 INF] Now listening on: https://localhost:7294
+[21:44:16 INF] Now listening on: http://localhost:5255
+[21:44:16 DBG] Loaded hosting startup assembly TestRedisSerilog
+[21:44:16 DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+[21:44:16 DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+[21:44:16 INF] Application started. Press Ctrl+C to shut down.
+[21:44:16 INF] Hosting environment: Development
+[21:44:16 INF] Content root path: C:\Users\namiqrasullu\Desktop\FBES_1227_az\Asp.net\TestRedisSerilog\TestRedisSerilog
+[21:44:16 DBG] Hosting started
+[21:44:16 DBG] Connection id "0HN1DGI8BJB7V" received FIN.
+[21:44:16 DBG] Connection id "0HN1DGI8BJB7U" received FIN.
+[21:44:16 DBG] Connection id "0HN1DGI8BJB7V" accepted.
+[21:44:16 DBG] Connection id "0HN1DGI8BJB7U" accepted.
+[21:44:16 DBG] Connection id "0HN1DGI8BJB7V" started.
+[21:44:16 DBG] Connection id "0HN1DGI8BJB7U" started.
+[21:44:16 DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+[21:44:16 DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+[21:44:16 DBG] Connection id "0HN1DGI8BJB7U" stopped.
+[21:44:16 DBG] Connection id "0HN1DGI8BJB7V" stopped.
+[21:44:16 DBG] Connection id "0HN1DGI8BJB7V" sending FIN because: "The Socket transport's send loop completed gracefully."
+[21:44:16 DBG] Connection id "0HN1DGI8BJB7U" sending FIN because: "The Socket transport's send loop completed gracefully."
+[21:44:16 DBG] Connection id "0HN1DGI8BJB80" accepted.
+[21:44:16 DBG] Connection id "0HN1DGI8BJB80" started.
+[21:44:16 DBG] Connection id "0HN1DGI8BJB80" received FIN.
+[21:44:16 DBG] Connection id "0HN1DGI8BJB81" accepted.
+[21:44:16 DBG] Connection id "0HN1DGI8BJB81" started.
+[21:44:16 DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): An unknown error occurred while processing the certificate.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+[21:44:16 DBG] Connection id "0HN1DGI8BJB80" stopped.
+[21:44:16 DBG] Connection id "0HN1DGI8BJB80" sending FIN because: "The Socket transport's send loop completed gracefully."
+[21:44:16 DBG] Connection 0HN1DGI8BJB81 established using the following protocol: "Tls13"
+[21:44:16 INF] Request starting HTTP/2 GET https://localhost:7294/swagger/index.html - null null
+[21:44:16 DBG] Wildcard detected, all requests with hosts will be allowed.
+[21:44:16 DBG] No candidates found for the request path '/swagger/index.html'
+[21:44:16 DBG] Request did not match any endpoints
+[21:44:16 DBG] Response markup is scheduled to include browser refresh script injection.
+[21:44:17 DBG] Response markup was updated to include browser refresh script injection.
+[21:44:17 INF] Request finished HTTP/2 GET https://localhost:7294/swagger/index.html - 200 null text/html;charset=utf-8 198.3839ms
+[21:44:17 INF] Request starting HTTP/2 GET https://localhost:7294/swagger/swagger-ui.css - null null
+[21:44:17 INF] Request starting HTTP/2 GET https://localhost:7294/_vs/browserLink - null null
+[21:44:17 INF] Request starting HTTP/2 GET https://localhost:7294/_framework/aspnetcore-browser-refresh.js - null null
+[21:44:17 DBG] No candidates found for the request path '/swagger/swagger-ui.css'
+[21:44:17 DBG] Request did not match any endpoints
+[21:44:17 INF] Request finished HTTP/2 GET https://localhost:7294/_framework/aspnetcore-browser-refresh.js - 200 13768 application/javascript; charset=utf-8 18.1621ms
+[21:44:17 INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+[21:44:17 INF] Request finished HTTP/2 GET https://localhost:7294/swagger/swagger-ui.css - 200 143943 text/css 29.17ms
+[21:44:17 INF] Request finished HTTP/2 GET https://localhost:7294/_vs/browserLink - 200 null text/javascript; charset=UTF-8 39.27ms
+[21:44:17 INF] Request starting HTTP/2 GET https://localhost:7294/swagger/v1/swagger.json - null null
+[21:44:17 DBG] No candidates found for the request path '/swagger/v1/swagger.json'
+[21:44:17 DBG] Request did not match any endpoints
+[21:44:17 INF] Request starting HTTP/2 GET https://localhost:7294/swagger/favicon-32x32.png - null null
+[21:44:17 DBG] No candidates found for the request path '/swagger/favicon-32x32.png'
+[21:44:17 DBG] Request did not match any endpoints
+[21:44:17 INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+[21:44:17 INF] Request finished HTTP/2 GET https://localhost:7294/swagger/favicon-32x32.png - 200 628 image/png 8.5996ms
+[21:44:17 INF] Request finished HTTP/2 GET https://localhost:7294/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 85.9624ms
+[21:44:37 INF] Request starting HTTP/2 GET https://localhost:7294/WeatherForecast/test - null null
+[21:44:37 DBG] 1 candidate(s) found for the request path '/WeatherForecast/test'
+[21:44:37 DBG] Endpoint 'TestRedisSerilog.Controllers.WeatherForecastController.Test (TestRedisSerilog)' with route pattern 'WeatherForecast/test' is valid for the request path '/WeatherForecast/test'
+[21:44:37 DBG] Request matched endpoint 'TestRedisSerilog.Controllers.WeatherForecastController.Test (TestRedisSerilog)'
+[21:44:37 DBG] Static files was skipped as the request already matched an endpoint.
+[21:44:37 INF] Executing endpoint 'TestRedisSerilog.Controllers.WeatherForecastController.Test (TestRedisSerilog)'
+[21:44:37 INF] Route matched with {action = "Test", controller = "WeatherForecast"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Test() on controller TestRedisSerilog.Controllers.WeatherForecastController (TestRedisSerilog).
+[21:44:37 DBG] Execution plan of authorization filters (in the following order): ["None"]
+[21:44:37 DBG] Execution plan of resource filters (in the following order): ["None"]
+[21:44:37 DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)"]
+[21:44:37 DBG] Execution plan of exception filters (in the following order): ["None"]
+[21:44:37 DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)"]
+[21:44:37 DBG] Executing controller factory for controller TestRedisSerilog.Controllers.WeatherForecastController (TestRedisSerilog)
+[21:44:37 DBG] Executed controller factory for controller TestRedisSerilog.Controllers.WeatherForecastController (TestRedisSerilog)
+[21:44:38 ERR] errorrrrr
+[21:44:41 DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter"]
+[21:44:41 DBG] No information found on request to perform content negotiation.
+[21:44:41 DBG] Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+[21:44:41 DBG] Attempting to select the first formatter in the output formatters list which can write the result.
+[21:44:41 DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter' and content type 'text/plain' to write the response.
+[21:44:41 INF] Executing OkObjectResult, writing value of type 'System.String'.
+[21:44:41 INF] Executed action TestRedisSerilog.Controllers.WeatherForecastController.Test (TestRedisSerilog) in 3160.7427ms
+[21:44:41 INF] Executed endpoint 'TestRedisSerilog.Controllers.WeatherForecastController.Test (TestRedisSerilog)'
+[21:44:41 INF] Request finished HTTP/2 GET https://localhost:7294/WeatherForecast/test - 200 null text/plain; charset=utf-8 3219.7185ms

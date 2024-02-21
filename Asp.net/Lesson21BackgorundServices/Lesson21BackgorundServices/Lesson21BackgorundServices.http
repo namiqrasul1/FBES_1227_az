@@ -1,0 +1,6 @@
+@Lesson21BackgorundServices_HostAddress = http://localhost:5091
+
+GET {{Lesson21BackgorundServices_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
