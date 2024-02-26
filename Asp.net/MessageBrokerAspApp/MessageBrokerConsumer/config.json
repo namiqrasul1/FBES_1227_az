@@ -1,0 +1,9 @@
+{
+  "RabbitMQ": {
+    "HostName": "localhost",
+    "UserName": "guest",
+    "Password": "guest",
+    "QueueName": "somequeue",
+    "Port": 5672
+  }
+}
